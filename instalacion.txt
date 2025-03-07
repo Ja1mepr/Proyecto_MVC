@@ -1,2 +1,0 @@
-npm init -y
-npm i express nodemon cors dotenv mongoose multer
